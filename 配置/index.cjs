@@ -14,9 +14,9 @@ const USER_CONFIG = {
   APP_SECRET:d48afae7f71f331e1823794dbc7902ad
 
   PROVINCE: '河南
-  CITY: '惠州',
+  CITY: '原阳',
 
-  USERS: [
+  USERS: [wangxinleo,wechat-public-account-push
     {
       // 想要发送的人的名字
       name: '宝贝',
